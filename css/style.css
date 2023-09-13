@@ -1,0 +1,7 @@
+.social-icon svg{
+    fill: white;
+    transition: 0.3s;
+  }
+  .social-icon:hover svg {
+    fill: blue;
+  }
